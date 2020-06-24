@@ -17,6 +17,7 @@ public class Prac {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("learning push");
+        System.out.println("second");
     }
     
 }
